@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment>feed Package</comment>
+<entry key="createdBy">Sami</entry>
+<entry key="name">feed-content</entry>
+<entry key="created">2013-05-30T23:15:04.089+0530</entry>
+<entry key="groupId">com.sample.feed</entry>
+<entry key="version">1.0-SNAPSHOT</entry>
+<entry key="requiresRoot">false</entry>
+<entry key="group">feeds</entry>
+<entry key="description">Maven Multimodule project for feed.</entry>
+<entry key="artifactId">feed-content</entry>
+<entry key="path">/etc/packages/feeds/feed-content.zip</entry>
+</properties>
