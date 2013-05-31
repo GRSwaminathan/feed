@@ -94,12 +94,6 @@
     <dependencyManagement>
         <dependencies>
             <dependency>
-				<groupId>com.day.cq</groupId>
-				<artifactId>cq-commons</artifactId>
-				<version>5.5.0</version>
-				<scope>provided</scope>
-			</dependency>
-            <dependency>
 				<groupId>log4j</groupId>
 				<artifactId>log4j</artifactId>
 				<version>1.2.16</version>
@@ -135,57 +129,68 @@
                 <groupId>com.day.cq</groupId>
                 <artifactId>cq-commons</artifactId>
                 <version>5.5.0</version>
+                <scope>provided</scope>
             </dependency>
             <dependency>
                 <groupId>com.day.cq</groupId>
                 <artifactId>cq-security-api</artifactId>
                 <version>5.5.0</version>
+                <scope>provided</scope>
             </dependency>
             <dependency>
                 <groupId>com.day.cq.wcm</groupId>
                 <artifactId>cq-wcm-api</artifactId>
                 <version>5.5.0</version>
+                <scope>provided</scope>
             </dependency>
             <dependency>
                 <groupId>com.day.cq.wcm</groupId>
                 <artifactId>cq-wcm-commons</artifactId>
                 <version>5.5.2</version>
+                <scope>provided</scope>
             </dependency>
             <dependency>
                 <groupId>com.day.cq.wcm</groupId>
                 <artifactId>cq-wcm-foundation</artifactId>
                 <version>5.5.2</version>
+                <scope>provided</scope>
             </dependency>
             <dependency>
                 <groupId>com.day.cq.wcm</groupId>
                 <artifactId>cq-wcm-taglib</artifactId>
                 <version>5.5.0</version>
+                <scope>provided</scope>
             </dependency>
             <dependency>
                 <groupId>com.day.cq.collab</groupId>
                 <artifactId>cq-collab-commons</artifactId>
                 <version>5.5.2</version>
+                <scope>provided</scope>
             </dependency>
             <dependency>
                 <groupId>com.day.cq.collab</groupId>
                 <artifactId>cq-collab-blog</artifactId>
                 <version>5.5.2</version>
+                <scope>provided</scope>
             </dependency>
             <dependency>
                 <groupId>com.day.cq.collab</groupId>
                 <artifactId>cq-collab-core</artifactId>
                 <version>5.5.0</version>
+                <scope>provided</scope>
             </dependency>
             <dependency>
                 <groupId>com.adobe.granite</groupId>
                 <artifactId>com.adobe.granite.replication.core</artifactId>
                 <version>5.5.14</version>
+                <scope>provided</scope>
             </dependency>
 
             <dependency>
                 <groupId>com.day.cq</groupId>
                 <artifactId>cq-rewriter</artifactId>
                 <version>5.5.0</version>
+                <scope>provided</scope>
             </dependency>
             <!--
             <dependency>
@@ -198,6 +203,7 @@
                 <groupId>com.adobe.granite</groupId>
                 <artifactId>com.adobe.granite.ui.commons</artifactId>
                 <version>5.5.14</version>
+                <scope>provided</scope>
             </dependency>
             <dependency>
                 <groupId>com.day.cq</groupId>
@@ -227,11 +233,13 @@
                 <groupId>com.day.commons</groupId>
                 <artifactId>day-commons-gfx</artifactId>
                 <version>2.1.4</version>
+                <scope>provided</scope>
             </dependency>
             <dependency>
                 <groupId>com.day.cq</groupId>
                 <artifactId>cq-personalization</artifactId>
                 <version>5.5.2</version>
+                <scope>provided</scope>
             </dependency>
             <!-- <dependency> <groupId>com.day.cq</groupId> <artifactId>cq-i18n</artifactId> 
                 <version>5.4.2</version> </dependency> -->
@@ -239,32 +247,38 @@
                 <groupId>com.adobe.granite</groupId>
                 <artifactId>com.adobe.granite.i18n</artifactId>
                 <version>5.5.4</version>
+                <scope>provided</scope>
             </dependency>
 
             <dependency>
                 <groupId>com.day.cq</groupId>
                 <artifactId>cq-shared-libs</artifactId>
                 <version>5.4.0</version>
+                <scope>provided</scope>
             </dependency>
             <dependency>
                 <groupId>com.day.cq</groupId>
                 <artifactId>cq-search</artifactId>
                 <version>5.5.4</version>
+                <scope>provided</scope>
             </dependency>
             <dependency>
                 <groupId>com.adobe.granite</groupId>
                 <artifactId>com.adobe.granite.xssprotection</artifactId>
                 <version>5.5.14</version>
+                <scope>provided</scope>
             </dependency>
             <dependency>
                 <groupId>com.day.cq.dam</groupId>
                 <artifactId>cq-dam-commons</artifactId>
                 <version>5.5.0</version>
+                <scope>provided</scope>
             </dependency>
             <dependency>
                 <groupId>com.day.cq.dam</groupId>
                 <artifactId>cq-dam-api</artifactId>
                 <version>5.5.0</version>
+                <scope>provided</scope>
             </dependency>
 
             <!-- Sling Dependencies -->
